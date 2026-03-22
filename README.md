@@ -4,7 +4,7 @@
 This project analyzes customer purchasing behaviour using Instacart to determine key products & demand trends. This project also focuses on customer reorder behaviour. This will provide insights to support future inventory planning and retention strategies.
 
 ## Dataset Used:
-- [InstaCart Online Grocery Basket Analysis Dataset](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset) (click link)
+- [Instacart Online Grocery Basket Analysis Dataset](https://www.kaggle.com/datasets/yasserh/instacart-online-grocery-basket-analysis-dataset) (click link)
 - Max dataset size contains 32M+ rows.
 
 ## Tools Used:
