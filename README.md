@@ -18,4 +18,5 @@ This project analyzes customer purchasing behaviour using Instacart to determine
 - Highest customer orders peak between 10-11 AM, which suggests customers mostly order in mornings to recieve orders by afternoon/evening.
 - Produce department drives highest order volume, with Bananas being the most purchased product (ordered ~24% more than second best selling product).
 
- 
+## Dashboard:
+![Customer Behaviour Analysis Dashboard visualizing key products & demand trends.](https://github.com/adiarora23/Instacart-Analytics-Project/blob/main/Dashboard%20Snapshot.jpg)
